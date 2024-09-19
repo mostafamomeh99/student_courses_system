@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\mostafa  momeh\\web development\\back-end\\tasks\\Ef tasks\\task 2\\P01_StudentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D68348-9FD9-475E-996D-BBBA256D41AF}|P01_StudentSystem.csproj|g:\\mostafa  momeh\\web development\\back-end\\tasks\\ef tasks\\task 2\\p01_studentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D68348-9FD9-475E-996D-BBBA256D41AF}|P01_StudentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D68348-9FD9-475E-996D-BBBA256D41AF}|P01_StudentSystem.csproj|g:\\mostafa  momeh\\web development\\back-end\\tasks\\ef tasks\\task 2\\p01_studentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D68348-9FD9-475E-996D-BBBA256D41AF}|P01_StudentSystem.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\tasks\\Ef tasks\\task 2\\P01_StudentSystem\\models\\Course.cs",
+              "RelativeDocumentMoniker": "models\\Course.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\tasks\\Ef tasks\\task 2\\P01_StudentSystem\\models\\Course.cs",
+              "RelativeToolTip": "models\\Course.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:52:14.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\tasks\\Ef tasks\\task 2\\P01_StudentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\tasks\\Ef tasks\\task 2\\P01_StudentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAAAEUBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:09:18.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
